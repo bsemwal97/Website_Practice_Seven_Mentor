@@ -1,0 +1,12 @@
+Student Registration Form
+Create form with:                                     Progress0
+                                  Before                                  After
+ Name                              0                                      Done
+Email                              0                                      Done
+Password                           0                                      Done
+Gender (radio)                     0                                      Done
+Course (dropdown)                  0                                      Done       
+Hobbies (checkbox)                 0                                      Done
+Date of Birth                      0                                      Done
+Upload file                        0                                      Done
+Submit & Reset buttons             0                                      Done

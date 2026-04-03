@@ -1,0 +1,58 @@
+college website              all-done
+Structure          
+Use proper HTML structure:        Made 
+<html>, <head>, <body>          Made
+Header Section
+Use <div id="header">            done
+Add:
+College Name (<h1>)          done
+Tagline (<p>)             done
+Use <strong> or <em> for highlighting   done
+About Section                     done
+<div class="section">              done     
+Add:                                  done
+<h2> → "About College"                  Done
+Paragraph describing college          Done
+Add image using <img>                 done
+Courses Section                    done
+<div class="section">                  Added  
+Add:
+<h2> → "Courses Offered"              Done 
+Create a table:                      Done
+Course Name                           Done
+Duration
+Fees
+Add at least 3 courses
+Campus Video
+<div class="section">
+Add: 
+<h2> → "Campus Tour"           done
+Embed video using <iframe>           done
+Location Section
+<div class="section">
+Add:
+<h2> → "Location"
+Embed Google Map using <iframe>
+Extra Formatting
+
+Use at least:
+
+<b>, <strong>                Done
+<i>, <em>                    Done
+<mark>                       Done
+<small>                      Done
+<del> or <ins> i will not use that ill ask mentor then i'll implment these oh i habve na iseda wherre i have tp show discount cut 50 no 60percent disscount then ill use it 
+Footer Section
+<div id="footer">             Done
+Add:                          Done
+Contact info                  Done
+Use <small> for note          Done
+Conditions:                   Done
+
+use at least:
+
+4 <div>
+1 id and multiple class
+1 table
+1 image
+1 iframe

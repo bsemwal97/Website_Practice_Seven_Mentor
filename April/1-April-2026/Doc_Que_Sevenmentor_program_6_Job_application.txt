@@ -1,0 +1,9 @@
+Job Application Form                   Before                              After
+
+Full Name                                0                                  Done
+Email                                    0                                  Done
+Phone (number)                           0                                  Done
+Resume upload (file)                     0                                  Done                       
+Skills (checkbox)                        0                                  Done                  
+Experience (dropdown)                    0                                  Done
+Submit button                            0                                  Done

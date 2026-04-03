@@ -1,0 +1,9 @@
+Feedback Form
+
+                                      Before                    After
+Name                                     0                      Done
+Email                                    0                      Done
+Rating (range)                           0                      Done
+Feedback (textarea)                      0                      Done
+Favorite color                           0                      Done
+Submit button                            0                      Done

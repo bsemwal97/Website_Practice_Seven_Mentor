@@ -1,0 +1,58 @@
+college website              
+Structure
+Use proper HTML structure:
+<html>, <head>, <body>
+Header Section
+Use <div id="header">
+Add:
+College Name (<h1>)
+Tagline (<p>)
+Use <strong> or <em> for highlighting
+About Section
+<div class="section">
+Add:
+<h2> → "About College"
+Paragraph describing college
+Add image using <img>
+Courses Section
+<div class="section">
+Add:
+<h2> → "Courses Offered"
+Create a table:
+Course Name
+Duration
+Fees
+Add at least 3 courses
+Campus Video
+<div class="section">
+Add:
+<h2> → "Campus Tour"
+Embed video using <iframe>
+Location Section
+<div class="section">
+Add:
+<h2> → "Location"
+Embed Google Map using <iframe>
+Extra Formatting
+
+Use at least:
+
+<b>, <strong>
+<i>, <em>
+<mark>
+<small>
+<del> or <ins>
+Footer Section
+<div id="footer">
+Add:
+Contact info
+Use <small> for note
+Conditions:
+
+use at least:
+
+4 <div>
+1 id and multiple class
+1 table
+1 image
+1 iframe
